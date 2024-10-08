@@ -1,0 +1,1 @@
+Ushbu loyihada [Figma](https://www.figma.com/design/GLnE6lstO5iXXvCua2R0Jb/Web-design-Agency?node-id=0-1&node-type=canvas&t=AcsjWwH2hjEEhc47-0) saytidan bitta loyihani clone yasalgan.
